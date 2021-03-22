@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUCOMiner", "DUCOMiner.csproj", "{598796C2-6448-4686-AF67-9D3367E834B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598796C2-6448-4686-AF67-9D3367E834B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598796C2-6448-4686-AF67-9D3367E834B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598796C2-6448-4686-AF67-9D3367E834B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598796C2-6448-4686-AF67-9D3367E834B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {666054FD-161B-46C8-9981-BD2B78C9A872}
+	EndGlobalSection
+EndGlobal

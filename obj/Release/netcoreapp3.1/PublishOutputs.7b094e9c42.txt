@@ -1,0 +1,6 @@
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\DUCOMiner.exe
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\DUCOMiner.dll
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\DUCOMiner.deps.json
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\DUCOMiner.runtimeconfig.json
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\DUCOMiner.pdb
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

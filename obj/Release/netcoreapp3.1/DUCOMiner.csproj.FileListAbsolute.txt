@@ -1,0 +1,15 @@
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.exe
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.deps.json
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.runtimeconfig.json
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.dll
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\DUCOMiner.pdb
+C:\Users\Justin\source\repos\DUCOMiner\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.AssemblyInfo.cs
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.csproj.CopyComplete
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.dll
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.pdb
+C:\Users\Justin\source\repos\DUCOMiner\obj\Release\netcoreapp3.1\DUCOMiner.genruntimeconfig.cache

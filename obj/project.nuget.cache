@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPb9zWYfVNxK5OhxLVzefvBCgDHASz+n8jpEuXfrRRIiylhSR6igber98LD1QZ8y/Hd3VI0Qj6ocrc2TRj9rLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justin\\source\\repos\\DUCOMiner\\DUCOMiner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

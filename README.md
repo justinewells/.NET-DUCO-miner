@@ -1,6 +1,4 @@
 # .NET-DUCO-miner
-Simple .NET coded DUCO miner. First try coding a working program.
-May need a lot of improvements, but at least it works.
+Simple .NET DUCO miner. First try of make a working console application. May need a lot of improvements, but at least it works.
 
-Usage:
-Open and write your username.
+Usage: Open and write your username.
